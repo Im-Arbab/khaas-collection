@@ -19,7 +19,7 @@ An e-commerce website for Chikan (Chikankari) ethnic wear, with women's, men's a
 
 - React.js
 - JavaScript (ES6+)
-- CSS / Bootstrap
+- CSS / Bootstrap / Tailwind CSS
 - Deployed on Vercel
 
 ## Getting Started
